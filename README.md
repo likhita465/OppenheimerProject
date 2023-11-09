@@ -67,4 +67,5 @@ ClerksActions_Api.feature
 		Scenario: Calling owe-money api with valid natid and validating its response schema	
 		
 Test Result from IDE:		
+<img width="370" alt="image" src="https://github.com/likhita465/OppenheimerProject/assets/150339768/fb5c4d2a-75e6-4d69-9914-e107253d6fd5">
 
